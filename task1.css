@@ -1,0 +1,28 @@
+.images img {
+    display: inline;
+    margin: auto;
+    text-align: center;
+        
+     
+}
+.images:hover{
+    cursor: pointer;
+   
+}
+
+img{
+    width: 80px;
+    height: 500px;
+    border-radius: 25px;
+    text-align: center;
+}
+ .main{
+    width: 500px;
+    height: 500px;
+    display: inline
+}
+.images{
+    margin-left: 350px;
+    margin-top: 30px;
+    padding: 15px;
+}
