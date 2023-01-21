@@ -2,7 +2,8 @@
     display: inline;
     margin: auto;
     text-align: center;
-        
+    box-shadow: 5px black;
+
      
 }
 .images:hover{
@@ -16,11 +17,7 @@ img{
     border-radius: 25px;
     text-align: center;
 }
- .main{
-    width: 500px;
-    height: 500px;
-    display: inline
-}
+
 .images{
     margin-left: 350px;
     margin-top: 30px;
